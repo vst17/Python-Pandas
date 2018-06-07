@@ -4,8 +4,8 @@
 1.	Schools that spend between 585-615 dollars per student have a better percent passing reading, percent passing math, and percent overall passing rate than schools that spend more than 615 dollars per student. Also, those schools that spend less per student are smaller schools with 2,000 students or less.
 2.	It is also found that the schools with 2000 students or less have a higher percent passing reading, percent passing math, and percent overall passing rate than larger schools that have 2000 – 5000 students. Furthermore, the smaller the school, the less they spend per student.
 3.	With that being said,Charter schools have a higher percent passing reading, percent passing math, and percent overall passing rate than District schools. Thus being the top five performing schools based on percent passing rates, whereas the bottom five performing schools based on percent passing rate are District schools.
-
-
+4. In all 15 schools, the Average Reading Score is higher than the Average Math Score.
+5. Lasly, for the top 5 performing schools, the percent passing math is about 20 percent lower than the percent passing reading. 
 
 
 ```python
